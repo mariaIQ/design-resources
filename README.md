@@ -16,6 +16,8 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Animated Icons — Minimalistic](https://animatedicons.co/icons/minimalistic) | Minimal icon assets with motion, useful for buttons, navigation, and status feedback. |
 | [Hugeicons — Animation Icons](https://hugeicons.com/icons/stroke-sharp/animation) | A set of animation-themed icons in the Stroke Sharp style, available for SVG, React, and icon fonts. |
 | [Pixelarticons](https://pixelarticons.com/) | A pixel-art interface icon library built on a 24×24 grid, with free and paid collections. |
+| [Boxicons — Free Icons](https://boxicons.com/icons?free=true&c=19) | A filtered collection from Boxicons, a modern UI icon library with multiple packs, styles, weights, and framework integrations. |
+| [Remix Icon](https://remixicon.com/) | An open-source icon library designed for designers and developers. |
 
 ## Templates
 
@@ -29,6 +31,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | Resource | Description |
 | --- | --- |
 | [MUI System — Box](https://v6.mui.com/system/react-box/) | Documentation for MUI's foundational `Box` layout and styling component. |
+
+## AI Tools
+
+| Resource | Description |
+| --- | --- |
+| [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
 
 ## Contributing
 
