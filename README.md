@@ -50,6 +50,13 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [karpathy/llm-council](https://github.com/karpathy/llm-council) | A local web app that queries multiple LLMs, has them anonymously review and rank one another's answers, and uses a chairman model to produce a final response. |
 
+## Learning
+
+| Resource | Description |
+| --- | --- |
+| [AI Engineering from Scratch — GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) | The MIT-licensed source repository for a free curriculum with 500+ practical lessons covering AI foundations, LLM engineering, RAG, agents, and production systems. |
+| [AI Engineering from Scratch — Course](https://aiengineeringfromscratch.com/) | The curriculum's course website for reading completed lessons online. |
+
 ## Contributing
 
 Add new resources to the most relevant section and include:
