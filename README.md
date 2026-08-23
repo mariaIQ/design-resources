@@ -32,6 +32,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [MUI System — Box](https://v6.mui.com/system/react-box/) | Documentation for MUI's foundational `Box` layout and styling component. |
 
+## Design Tools
+
+| Resource | Description |
+| --- | --- |
+| [Hallmark — Install](https://www.usehallmark.com/#install) | An agent skill for building, studying, auditing, and redesigning interfaces with an anti-generic design approach. |
+
 ## AI Tools
 
 | Resource | Description |
