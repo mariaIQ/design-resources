@@ -7,12 +7,15 @@ A curated collection of useful design and frontend resources, organized by categ
 | Resource | Description |
 | --- | --- |
 | [Animated Icons — Minimalistic](https://animatedicons.co/icons/minimalistic) | A collection of minimal animated icons for interfaces and digital products. |
+| [Flaticon — Most Downloaded Animated Icons](https://www.flaticon.com/animated-icons-most-downloaded/5) | A browsable page of popular animated icon assets from Flaticon. |
 
 ## Icons
 
 | Resource | Description |
 | --- | --- |
 | [Animated Icons — Minimalistic](https://animatedicons.co/icons/minimalistic) | Minimal icon assets with motion, useful for buttons, navigation, and status feedback. |
+| [Hugeicons — Animation Icons](https://hugeicons.com/icons/stroke-sharp/animation) | A set of animation-themed icons in the Stroke Sharp style, available for SVG, React, and icon fonts. |
+| [Pixelarticons](https://pixelarticons.com/) | A pixel-art interface icon library built on a 24×24 grid, with free and paid collections. |
 
 ## Templates
 
