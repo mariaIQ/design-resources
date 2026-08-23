@@ -37,12 +37,20 @@ A curated collection of useful design and frontend resources, organized by categ
 | Resource | Description |
 | --- | --- |
 | [Hallmark — Install](https://www.usehallmark.com/#install) | An agent skill for building, studying, auditing, and redesigning interfaces with an anti-generic design approach. |
+| [nutlope/hallmark](https://github.com/nutlope/hallmark) | The MIT-licensed source repository for the Hallmark design skill for Claude Code, Cursor, and Codex. |
 
 ## AI Tools
 
 | Resource | Description |
 | --- | --- |
 | [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
+
+## AI Coding Tools
+
+| Resource | Description |
+| --- | --- |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | An MIT-licensed, open-source AI coding agent available for the terminal and as a desktop application. |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | An opinionated collection of Claude Code tools for product, design, engineering management, releases, documentation, and QA workflows. |
 
 ## LLM Council
 
