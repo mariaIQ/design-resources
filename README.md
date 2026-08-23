@@ -44,6 +44,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
 
+## LLM Council
+
+| Resource | Description |
+| --- | --- |
+| [karpathy/llm-council](https://github.com/karpathy/llm-council) | A local web app that queries multiple LLMs, has them anonymously review and rank one another's answers, and uses a chairman model to produce a final response. |
+
 ## Contributing
 
 Add new resources to the most relevant section and include:
