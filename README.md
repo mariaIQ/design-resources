@@ -11,6 +11,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Morphicons](https://www.morphicons.com/) | Animated SVG icons that morph smoothly between interface states. |
 | [Motion](https://motion.dev/) | A production-ready web animation library for JavaScript and modern frameworks. |
 | [Anime.js](https://animejs.com/) | A lightweight JavaScript animation library for CSS, SVG, DOM attributes, and objects. |
+| [Particles by Casberry](https://particles.casberry.in/) | An interactive 3D particle and WebGL playground. |
 | [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) | Animated status loaders designed for AI agents and thinking states. |
 
 ## Icons
@@ -28,6 +29,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [Aceternity UI — Minimal Portfolio Template](https://ui.aceternity.com/templates/minimal-portfolio-template) | A responsive portfolio template built with Next.js, React, Tailwind CSS, TypeScript, and Motion. |
 | [MUI Store](https://mui.com/store/) | A curated store of premium React templates and tools, including admin dashboards and application starters. |
+| [v0 E-commerce Dashboard](https://v0.app/templates/pd25Au2LhWp) | A reusable e-commerce dashboard template from the v0 template library. |
 
 ## Components
 
@@ -39,6 +41,8 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Aceternity UI](https://ui.aceternity.com/) | Animated React and Tailwind CSS components, blocks, and effects. |
 | [Beautiful UI](https://www.beautifului.dev/) | AI-native interface primitives for building modern product experiences. |
 | [Kokonut UI](https://kokonutui.com/) | Reusable React and Tailwind CSS interface components. |
+| [21st.dev](https://21st.dev/) | A React and Tailwind component registry for building modern interfaces. |
+| [daisyUI](https://daisyui.com/) | A Tailwind CSS component library with semantic, themeable UI components. |
 
 ## Design Tools
 
@@ -48,6 +52,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | [nutlope/hallmark](https://github.com/nutlope/hallmark) | The MIT-licensed source repository for the Hallmark design skill for Claude Code, Cursor, and Codex. |
 | [Design Prompts](https://designprompts.dev/) | A collection of visual-style prompts for AI-assisted design work. |
 | [Design Resources](https://designresourc.es/) | A curated directory of tools and assets for designers. |
+| [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) | A GitHub resource for structuring and improving LinkedIn skills data. |
 
 ## Illustrations
 
@@ -84,12 +89,16 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
 | [Toolify](https://www.toolify.ai/) | A discovery directory for AI tools and services. |
+| [VeoAIFree](https://veoaifree.com/) | A third-party AI video generator directory/service offering free Veo-style video generation. |
 | [AIxploria — Free AI Tools](https://www.aixploria.com/en/free-ai/) | A curated directory of free and freemium AI tools organised by category. |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | A directory of hosted machine-learning demos and AI applications. |
 | [Manus](https://manus.im/) | A general-purpose AI agent for research and task execution. |
 | [Merlin](https://www.getmerlin.in/) | A browser-based AI assistant for research, writing, and productivity. |
 | [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) | A Hugging Face Space that generates websites from prompts. |
-| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | An open-source gateway for routing requests across multiple AI providers. |
+| [AI Templates](https://aitmpl.com/) | A directory of reusable AI prompts, templates and agent configurations. |
+| [AI Templates Documentation](https://docs.aitmpl.com/) | Documentation for installing and using AI templates. |
+| [QuotaMeter](https://quotameter.app/) | A tool for monitoring AI coding-tool usage and quotas. |
+| [OmniRoute](https://github.com/NFTHiKe/OmniRoute) | An open-source gateway for routing requests across multiple AI providers. |
 
 ## AI Evaluation
 
@@ -105,6 +114,8 @@ A curated collection of useful design and frontend resources, organized by categ
 | [garrytan/gstack](https://github.com/garrytan/gstack) | An opinionated collection of Claude Code tools for product, design, engineering management, releases, documentation, and QA workflows. |
 | [Orca](https://github.com/stablyai/orca) | A tool for orchestrating coding agents in parallel. |
 | [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) | A collection of coding-agent principles and reusable skills inspired by Andrej Karpathy. |
+| [OpenScreen](https://github.com/getopenscreen/openscreen) | An open-source screen recorder and capture tool; development moved to this repository. |
+| [OneTerm](https://github.com/veops/oneterm) | An open-source terminal and remote access platform. |
 
 ## Security
 
@@ -119,6 +130,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template) | A starter template for AI-assisted website reconstruction. |
 | [SaveWeb2ZIP](https://saveweb2zip.com/en) | A utility for capturing website files and packaging them as a ZIP archive. |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut) | An open-source video editor for creating and editing visual content. |
 
 ## Creative Tools
 
@@ -132,12 +144,15 @@ A curated collection of useful design and frontend resources, organized by categ
 | Resource | Description |
 | --- | --- |
 | [Apprise](https://github.com/caronc/apprise) | A notification library that connects applications to many messaging services. |
+| [Responsively App](https://github.com/responsively-org/responsively-app) | A responsive web-development browser for viewing and testing multiple device layouts. |
+| [Plausible Analytics](https://github.com/plausible/analytics) | An open-source, privacy-friendly web analytics platform. |
 
 ## Project Management
 
 | Resource | Description |
 | --- | --- |
 | [Plane](https://github.com/makeplane/plane) | An open-source project management and issue-tracking platform. |
+| [Rexora E-commerce Dashboard](https://v0-e-commerce-dashboard-sooty.vercel.app/) | A hosted e-commerce dashboard interface prototype. |
 
 ## Automation
 
@@ -158,6 +173,9 @@ A curated collection of useful design and frontend resources, organized by categ
 | [AI Engineering from Scratch — GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) | The MIT-licensed source repository for a free curriculum with 500+ practical lessons covering AI foundations, LLM engineering, RAG, agents, and production systems. |
 | [AI Engineering from Scratch — Course](https://aiengineeringfromscratch.com/) | The curriculum's course website for reading completed lessons online. |
 | [Atheros Learning](https://learning.atheros.ai/) | Learning resources for UI design, HTML, and CSS. |
+| [Atheros UI Components](https://learning.atheros.ai/ui-components) | A learning collection of UI components, HTML and CSS patterns. |
+| [Utopia Clamp Calculator](https://utopia.fyi/clamp/calculator/) | A fluid typography and CSS clamp calculator for responsive design. |
+| [Royalfig Fluid Typography Calculator](https://github.com/royalfig/fluid-typography-calculator) | A tool for generating fluid typography scales with CSS. |
 
 ## Contributing
 
