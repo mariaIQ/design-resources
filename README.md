@@ -84,6 +84,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
 | [Toolify](https://www.toolify.ai/) | A discovery directory for AI tools and services. |
+| [AIxploria — Free AI Tools](https://www.aixploria.com/en/free-ai/) | A curated directory of free and freemium AI tools organised by category. |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | A directory of hosted machine-learning demos and AI applications. |
 | [Manus](https://manus.im/) | A general-purpose AI agent for research and task execution. |
 | [Merlin](https://www.getmerlin.in/) | A browser-based AI assistant for research, writing, and productivity. |
