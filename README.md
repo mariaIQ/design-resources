@@ -13,6 +13,8 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Anime.js](https://animejs.com/) | A lightweight JavaScript animation library for CSS, SVG, DOM attributes, and objects. |
 | [Particles by Casberry](https://particles.casberry.in/) | An interactive 3D particle and WebGL playground. |
 | [Thinking Orbs](https://github.com/Jakubantalik/thinking-orbs) | Animated status loaders designed for AI agents and thinking states. |
+| [Magic UI](https://magicui.design/) | Animated UI components and effects for web interfaces. |
+| [Motion Primitives](https://motion-primitives.com/) | Customisable motion components built with Motion and Tailwind CSS. |
 
 ## Icons
 
@@ -31,6 +33,17 @@ A curated collection of useful design and frontend resources, organized by categ
 | [MUI Store](https://mui.com/store/) | A curated store of premium React templates and tools, including admin dashboards and application starters. |
 | [v0 E-commerce Dashboard](https://v0.app/templates/pd25Au2LhWp) | A reusable e-commerce dashboard template from the v0 template library. |
 
+## Design System Foundations
+
+| Resource | Description |
+| --- | --- |
+| [shadcn/ui](https://ui.shadcn.com/) | Composable UI components with source code to customise and extend into a design system. |
+| [DesignMD — DESIGN.md Library](https://designmd.app/library) | A library of design systems documented in Markdown for use with AI agents. |
+| [Hagicode Design](https://design.hagicode.com/) | A gallery of DESIGN.md design references with live previews and supporting documentation. |
+| [Base UI](https://base-ui.com/) | Unstyled UI components for building accessible design systems. |
+| [Radix UI](https://www.radix-ui.com/) | Accessible UI primitives and themed components for building interfaces. |
+| [React Aria](https://react-aria.adobe.com/) | Unstyled React components with accessibility and internationalisation support. |
+
 ## Components
 
 | Resource | Description |
@@ -43,6 +56,8 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Kokonut UI](https://kokonutui.com/) | Reusable React and Tailwind CSS interface components. |
 | [21st.dev](https://21st.dev/) | A React and Tailwind component registry for building modern interfaces. |
 | [daisyUI](https://daisyui.com/) | A Tailwind CSS component library with semantic, themeable UI components. |
+| [Origin UI / coss ui](https://coss.com/ui) | UI components built on Base UI; the original originui.com link now redirects here. |
+| [ReUI](https://reui.io/) | UI components and blocks for building applications with shadcn/ui. |
 
 ## Design Tools
 
