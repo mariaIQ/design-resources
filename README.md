@@ -136,6 +136,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) | An open-source security scanner for AI agent skills that detects vulnerabilities, prompt injection, data exfiltration, and malicious patterns before installation. |
 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | An AI infrastructure security assessment and red-teaming toolkit. |
 | [Depx](https://github.com/pdiscoveryio/depx) | A software supply-chain security tool for dependency analysis. |
 
