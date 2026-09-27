@@ -186,6 +186,7 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [App Ideas Collection](https://github.com/florinpop17/app-ideas) | Project briefs and user stories for practising app development, organised by difficulty. |
 | [AI Engineering from Scratch — GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) | The MIT-licensed source repository for a free curriculum with 500+ practical lessons covering AI foundations, LLM engineering, RAG, agents, and production systems. |
 | [AI Engineering from Scratch — Course](https://aiengineeringfromscratch.com/) | The curriculum's course website for reading completed lessons online. |
 | [Atheros Learning](https://learning.atheros.ai/) | Learning resources for UI design, HTML, and CSS. |
