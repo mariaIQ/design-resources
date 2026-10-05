@@ -102,6 +102,9 @@ A curated collection of useful design and frontend resources, organized by categ
 
 | Resource | Description |
 | --- | --- |
+| [prompts.chat](https://prompts.chat/) | A free, open-source community library for discovering, sharing and reusing prompts across AI assistants. |
+| [prompts.chat — GitHub](https://github.com/f/prompts.chat) | Source repository for the prompt library and self-hosted platform, formerly Awesome ChatGPT Prompts. |
+| [prompts.chat MCP](https://github.com/f/prompts.chat-mcp) | An MCP server for searching and retrieving prompts directly in compatible AI assistants. |
 | [MiniMax-H3 Ultra Fast](https://huggingface.co/spaces/mrfakename/minimax-h3-ultra-fast) | A community-hosted Hugging Face Space for experimenting with the MiniMax-H3 model. |
 | [Toolify](https://www.toolify.ai/) | A discovery directory for AI tools and services. |
 | [VeoAIFree](https://veoaifree.com/) | A third-party AI video generator directory/service offering free Veo-style video generation. |
