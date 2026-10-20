@@ -157,6 +157,12 @@ A curated collection of useful design and frontend resources, organized by categ
 | [QuotaMeter](https://quotameter.app/) | A tool for monitoring AI coding-tool usage and quotas. |
 | [OmniRoute](https://github.com/NFTHiKe/OmniRoute) | An open-source gateway for routing requests across multiple AI providers. |
 
+## Local AI and Inference
+
+| Resource | Description |
+| --- | --- |
+| [Edge0](https://github.com/Edge0-AI/Edge0) | Apache-2.0 streaming Mixture-of-Experts inference framework using SSD expert offload, Recover-LoRA and predictive routing to run large sparse models locally. Includes 35B and 8B preview models, a Python/MLX backend for Apple Silicon, and separate macOS, iOS, Android and Windows runtimes. [Technical report](https://arxiv.org/abs/2609.18063). |
+
 ## Agent Harness
 
 | Resource | Description |
