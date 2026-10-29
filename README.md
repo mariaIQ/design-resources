@@ -95,6 +95,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | --- | --- |
 | [Navbar Gallery](https://www.navbar.gallery/) | Navigation design examples organised by pattern, including dropdowns, mega menus, sidebars and full-screen menus. |
 | [CTA.gallery](https://www.cta.gallery/) | A curated gallery of call-to-action design examples, including buttons, forms, newsletters and pricing sections. |
+| [Design Details](https://designdetails.io/) | A free library of real website designs with full-page captures, motion recordings, typography and color breakdowns. |
 
 ## Design Tools
 
