@@ -221,6 +221,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Open-source, node-based AI creation engine for reusable image, video, audio and 3D workflows, with local execution, custom nodes and API integration. [Website](https://www.comfy.org/) · [Documentation](https://docs.comfy.org/). |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A command-line audio/video downloader supporting thousands of sites, with format selection, subtitles, metadata and post-processing options. |
 | [ASCII Magic](https://www.ascii-magic.com/) | A generator that transforms images and videos into ASCII art. |
+| [ASCII Images](https://ascii-images.com) | Free, no-account browser tools for image-to-ASCII artwork, FIGlet banners, patterns and plain-text diagrams. |
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | An open-source tool for automating short-form video generation. |
 
 ## Developer Utilities
