@@ -119,6 +119,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | Resource | Description |
 | --- | --- |
 | [Free Faces Gallery](https://www.freefaces.gallery/) | A curated gallery of typefaces available for free use. |
+| [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Free browser tool for comparing script, heading and body font combinations. |
 
 ## Colours
 
