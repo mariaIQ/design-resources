@@ -107,6 +107,7 @@ A curated collection of useful design and frontend resources, organized by categ
 | [Design Prompts](https://designprompts.dev/) | A collection of visual-style prompts for AI-assisted design work. |
 | [Design Resources](https://designresourc.es/) | A curated directory of tools and assets for designers. |
 | [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) | A GitHub resource for structuring and improving LinkedIn skills data. |
+| [Linger](https://withlinger.com/) | Local-first image organizer for Apple silicon Macs. Save design references with their source links and notes. Includes a seven-day trial; continued full use requires a one-time paid licence. |
 
 ## Illustrations
 
